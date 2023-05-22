@@ -4,6 +4,9 @@
 
 
 
+
+
+
 var obj = new Client();
 obj.idClient = 1;
 obj.nomClient = "Said";
